@@ -1,81 +1,105 @@
-# Vijayakumar K
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vijayakumar%20K&fontAlign=50&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Data%20Analyst&descAlign=50&descAlignY=60" />
+</p>
 
-AI & Machine Learning Engineer | Data Analyst
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer+%7C+Data+Analyst;Computer+Vision+%28YOLO%2C+OpenCV%29+%7C+NLP+%7C+Deep+Learning;GenAI%3A+RAG+%7C+LangChain+%7C+Hugging+Face+%7C+FAISS;Building+practical%2C+scalable+AI+solutions" />
+</p>
 
-B.Tech Artificial Intelligence and Data Science student with hands-on experience in Machine Learning, Deep Learning, and Generative AI projects. Strong foundation in Python, SQL, and AI frameworks with practical experience building real-world applications including computer vision systems, RAG-based assistants, and automation tools. Passionate about developing scalable AI solutions to solve real-world business problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/Vijayakumar-K">LinkedIn</a> •
+  <a href="mailto:vijayakumar020206@gmail.com">Email</a> •
+  <a href="https://github.com/Vijayakumar226">GitHub</a>
+</p>
 
 ---
 
 ## About Me
+B.Tech Artificial Intelligence and Data Science student with hands-on experience in **Machine Learning, Deep Learning, and Generative AI**. I enjoy building real-world AI applications—**computer vision systems**, **RAG-based assistants**, and **automation workflows**.
 
-- 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 🤖 Focused on Machine Learning, Deep Learning, and Generative AI  
-- 📊 Interested in Data Analytics and AI-driven automation  
-- 🚀 Building practical AI applications using modern frameworks  
 - 📍 Chennai, India  
+- 🎯 Interests: ML Engineering • NLP • Computer Vision • RAG Systems • Automation  
+- 🚀 Goal: Build practical and scalable AI solutions
 
 ---
 
-## Technical Skills
+## Tech Stack (Skills)
 
-**Programming & Databases**  
-Python, SQL  
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,html,css,js" />
+</p>
 
-**Machine Learning & AI**  
-Machine Learning, Deep Learning, NLP, Computer Vision  
+### ML / DL / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-222?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/NumPy-222?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-222?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-222?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+</p>
 
-**Frameworks & Libraries**  
-TensorFlow, PyTorch, Scikit-learn, FastAPI  
+### GenAI / LLM Tools
+<p>
+  <img src="https://img.shields.io/badge/LangChain-222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-222?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/FAISS-222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-222?style=for-the-badge" />
+</p>
 
-**Generative AI & LLM Tools**  
-LangChain, Hugging Face, FAISS, Retrieval-Augmented Generation (RAG)  
-
-**Data Analysis & Visualization**  
-Power BI, Pandas, NumPy, Matplotlib  
-
-**Tools & Platforms**  
-GitHub, VS Code, n8n  
+### Backend / Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode" />
+  <img src="https://img.shields.io/badge/n8n-222?style=for-the-badge&logo=n8n&logoColor=FF6A00" />
+</p>
 
 ---
 
-## Projects
+## Featured Projects
 
-### Real-Time Defect Classification using YOLO and FastAPI
-- Developed a deep learning model to detect manufacturing defects with high accuracy.
-- Built a FastAPI-based web application for real-time image-based predictions.
+### 1) Real-Time Defect Classification in Manufacturing (YOLO + FastAPI)
+- YOLO-based defect detection and classification  
+- FastAPI app for real-time inference via image upload  
+**Repo:** https://github.com/Vijayakumar226/Real-Time-Defect-Classification-in-Manufacturing-Using-Machine-Learning-and-Image-Processing
 
-### Voice-Enabled Banking Assistant using RAG and LLMs
-- Created an intelligent banking assistant using Retrieval-Augmented Generation.
+### 2) Voice-Enabled Intelligent Banking Assistant (RAG + LLMs)
+- Voice input → document-grounded answers using RAG  
+- Improved reliability with source-based responses  
+**Repo:** https://github.com/Vijayakumar226/Voice-Enabled-Intelligent-Banking-Assistant-using-RAG-and-Large-Language-Models
 
-### AI-Powered HR Resume Screening Automation (n8n)
-- Designed an automation workflow for resume parsing, skill scoring, and candidate classification.
+### 3) AI-Powered HR Resume Screening Automation (n8n)
+- Resume parsing, skill scoring, candidate classification  
+- Automated emails + tracking workflow  
+**Repo:** https://github.com/Vijayakumar226/AI-Powered-HR-Resume-Screening-Automation-using-n8n
 
-### Netflix Data Analysis Dashboard (Power BI)
-- Built interactive dashboards to analyze content trends and insights.
+### 4) Netflix Data Analysis Dashboard (Power BI)
+- Power Query cleaning + interactive insights dashboard  
+**Repo:** Coming Soon
 
 ---
 
 ## Currently Learning
-
 - Advanced Deep Learning Architectures  
-- Generative AI Applications and AI Agents  
+- AI Agents & Automation  
 - Scalable ML Deployment and MLOps  
 
 ---
 
 ## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijayakumar226&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayakumar226&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijayakumar226&show_icons=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayakumar226&layout=compact" height="165" />
+</p>
 
 ---
 
 ## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/Vijayakumar-K  
+- Email: vijayakumar020206@gmail.com  
 
-- LinkedIn: https://www.linkedin.com/in/Vijayakumar-K
-- Email: vijayakumar020206@gmail.com
-
----
-
-⭐ Open to opportunities in AI, Machine Learning, and Data Science roles.
+⭐ Open to opportunities in **AI/ML, Data Science, and GenAI** roles.
