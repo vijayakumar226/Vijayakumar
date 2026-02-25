@@ -1,8 +1,8 @@
 <!-- ====== BANNER (Reliable) ====== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=Vijayakumar%20K&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Data%20Analyst&descAlignY=60"
-    alt="Vijayakumar K Banner"
+    src="banner.png"
+    alt="Banner"
   />
 </p>
 
