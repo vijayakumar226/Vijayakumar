@@ -101,14 +101,6 @@ Repo: https://github.com/Vijayakumar226/AI-Powered-HR-Resume-Screening-Automatio
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijayakumar226&show_icons=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayakumar226&layout=compact" height="165" alt="Top Languages" />
-</p>
-
----
-
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/Vijayakumar-K  
 - Email: vijayakumar020206@gmail.com  
