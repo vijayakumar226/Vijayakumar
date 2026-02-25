@@ -73,7 +73,7 @@ GitHub, VS Code, n8n
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/Vijayakumar-K
 - Email: vijayakumar020206@gmail.com
 
 ---
